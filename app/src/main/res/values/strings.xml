@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NoteKeeperApp</string>
+
+    <string name="hint_title">Title</string>
+    <string name="hint_content">Note Content</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_save">Save</string>
+
+    <string name="content_description_add_note">Add New Note</string>
+<!-- Note item xml-->
+    <string name="note_title_placeholder">Note Title</string>
+    <string name="note_content_preview">A brief preview of the note content goes here</string>
+</resources>
